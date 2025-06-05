@@ -1,0 +1,1 @@
+# this project explain Seed-weaight calculate Amount.
